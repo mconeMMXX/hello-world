@@ -1,2 +1,2 @@
 # hello-world
-nonething to say
+nothing to say
